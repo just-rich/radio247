@@ -23,7 +23,7 @@ client.on('message', async(message) =>
     
     try
     {
-        if(command == 'r-' + 'play')
+        if(command == process.env.PREFIX + 'play')
         {
             const voiceChannel = await client.channels.fetch(process.env.VC);
 
