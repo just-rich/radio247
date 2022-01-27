@@ -1,8 +1,11 @@
 # DiscordRadioBot
 
 config is .env;
-TOKEN="xxxx"
-VC="xxxx"
+
+##### DiscordToken
+TOKEN=xxxx
+##### VoiceChannelID
+VC=xxxx
 
 command to play;
 r-play [url]
