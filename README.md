@@ -1,4 +1,5 @@
-# DiscordRadioBot
+# DiscordRadioBot (ARHIVED)
+The newest & functional bot is here: [just-rich/radio](https://github.com/nvstly/radio)
 
 config is .env;  
 
